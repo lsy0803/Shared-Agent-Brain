@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shared Vault"
+  short_description: "Maintain shared Markdown knowledge across trusted agents"
+  default_prompt: "Use $shared-vault to resume this project from my authorized vault and save useful updates."

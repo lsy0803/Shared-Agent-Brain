@@ -1,0 +1,25 @@
+# Public starter allowlist. Review content before every publication.
+*
+!*/
+!.gitignore
+!/README.md
+!/README.en.md
+!/LICENSE
+!/AGENTS.md
+!/CONTRIBUTING.md
+!/docs/DESIGN.md
+!/skills/shared-vault/SKILL.md
+!/skills/shared-vault/agents/openai.yaml
+!/vault/AGENTS.md
+!/vault/00_Home/START_HERE.md
+!/vault/00_Home/WORKFLOW.md
+!/vault/00_Home/PROFILE.md
+!/vault/00_Home/RECORDING.md
+!/vault/01_Inbox/INBOX.md
+!/vault/02_Projects/PROJECTS.md
+!/vault/02_Projects/example-project.md
+!/vault/03_Areas/AREAS.md
+!/vault/04_Resources/LESSONS.md
+!/vault/90_Templates/PROJECT.md
+!/vault/90_Templates/CORRECTION.md
+!/vault/90_Templates/DISPUTE.md
